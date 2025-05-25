@@ -34,4 +34,8 @@ unicache = "unicache.cli:main"
 
 [tool.maturin]
 features = ["pyo3/extension-module"]
-module-name = "unicache.unicache_rs" 
+module-name = "unicache.unicache_rs"
+
+[project.urls]
+"Homepage" = "https://github.com/unicache-project/unicache"
+"Bug Tracker" = "https://github.com/unicache-project/unicache/issues"

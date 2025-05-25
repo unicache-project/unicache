@@ -37,9 +37,7 @@ Savings:              58% less storage used
 
 ### Quick Install
 ```bash
-git clone https://github.com/yourusername/unicache.git
-cd unicache
-./build_and_install.sh
+pip install unicache
 ```
 
 ### Requirements
